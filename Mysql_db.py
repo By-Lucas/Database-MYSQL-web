@@ -2,8 +2,9 @@ from psycopg2 import connect
 import mysql.connector
 from mysql.connector import errorcode
 
-# CONEXÃO DE BANCO DE DADOS WEB
+# CONEXÃO DE BANCO DE DADOS MYSQL WEB
 # COMPATIVEL COM MYSQL : AWS, AZURE, CLOUD CLOUTERS, UOL, dentre outros.
+# CONTATO WHATSAPP (Lucas 74981199190)
 
 
 config = {
