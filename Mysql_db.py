@@ -4,7 +4,7 @@ from mysql.connector import errorcode
 
 # CONEXÃO DE BANCO DE DADOS MYSQL WEB
 # COMPATIVEL COM MYSQL : AWS, AZURE, CLOUD CLOUTERS, UOL, dentre outros.
-# CONTATO WHATSAPP (Lucas 74981199190)
+# CONTATO WHATSAPP (Lucas 74981199190) GITHUB = https://github.com/By-Lucas/
 
 
 config = {
